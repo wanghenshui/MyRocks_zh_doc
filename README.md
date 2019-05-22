@@ -9,7 +9,7 @@ MyRocks 文档翻译
 ​      [如何报告错误并寻求帮助](一、概览/2.如何报告错误并寻求帮助.md)<br>
 ​      [MyRocks优于InnoDB](一、概览/3.MyRocks优于InnoDB.md)<br>
 ​      [MyRocks限制](一、概览/4.MyRocks限制.md)<br>
-​      [新MySQL MyRrocks引擎变量参数](一、概览/5.新MySQL%20MyRrocks引擎变量参数.md)<br>
+​      [新MySQL MyRrocks引擎变量参数](一、概览/5.新MySQL-MyRrocks引擎变量参数.md)<br>
 ​      [MyRocks编码约定](一、概览/6.MyRocks编码约定.md)<br>
 
 ### 事务
@@ -32,20 +32,20 @@ MyRocks 文档翻译
 ​      [结构设计](四、性能调优/3.结构设计.md)<br>
 ​      [更快的delete删除操作](四、性能调优/4.更快的delete删除操作.md)<br>
 ​      [生存时间TTL](四、性能调优/5.生存时间TTL.md)<br>
-​      [Read Free Replication特性](四、性能调优/6.Read%20Free%20Replication特性.md)<br>
+​      [Read Free Replication特性](四、性能调优/6.Read-Free-Replication特性.md)<br>
 ​      [分区表列族](四、性能调优/7.分区表列族.md)<br>
 ​      [手动压缩](四、性能调优/8.手动压缩.md)<br>
 
 ### 监控
 
-​      [Show Engine Status查看引擎状态](五、监控/1.Show%20Engine%20Status查看引擎状态.md)<br>
+​      [Show Engine Status查看引擎状态](五、监控/1.Show-Engine-Status查看引擎状态.md)<br>
 ​      [MyRocks新引擎返回码](五、监控/2.MyRocks新引擎返回码.md)<br>
-​      [Information Schema状态](五、监控/3.Information%20Schema状态.md)     <br>
+​      [Information Schema状态](五、监控/3.Information-Schema状态.md)     <br>
 
 ### 迁移
 
 ​      [从InnoDB引擎迁移到MyRocks引擎](六、迁移/1.从InnoDB引擎迁移到MyRocks引擎.md)<br>
-​      [从官方MySQL 5.6复制到Facebook MySQL 5.6](六、迁移/2.从官方MySQL%205.6复制到Facebook%20MySQL%205.6.md)<br>
+​      [从官方MySQL 5.6复制到Facebook MySQL 5.6](六、迁移/2.从官方MySQL-5.6复制到Facebook-MySQL-5.6.md)<br>
 
 ### 内部结构
 ​      [MyRocks数据字典格式](七、内部结构/1.MyRocks数据字典格式.md)<br>
