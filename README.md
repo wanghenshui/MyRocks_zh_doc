@@ -14,16 +14,16 @@ MyRocks 文档翻译
 
 ### 事务
 
-​      [行锁](二、事务\1.行锁.md)<br>
-​      [事务隔离级别](二、事务\2.事务隔离级别.md)<br>
-​      [崩溃修复](二、事务\3.崩溃修复.md)<br>
-​      [配置slave节点崩溃安全修复](二、事务\4.配置slave节点崩溃安全修复.md)<br>
-​      [配置master节点崩溃安全修复](二、事务\5.配置master节点崩溃安全修复.md)<br>
+​      [行锁](二、事务/1.行锁.md)<br>
+​      [事务隔离级别](二、事务/2.事务隔离级别.md)<br>
+​      [崩溃修复](二、事务/3.崩溃修复.md)<br>
+​      [配置slave节点崩溃安全修复](二、事务/4.配置slave节点崩溃安全修复.md)<br>
+​      [配置master节点崩溃安全修复](二、事务/5.配置master节点崩溃安全修复.md)<br>
 
 ### 备份
 
-​      [使用mysqldump工具逻辑备份](三、备份\1.使用mysqldump工具逻辑备份.md)<br>
-​      [使用myrocks_hotbackup工具物理备份](三、备份\2.使用myrocks_hotbackup工具物理备份.md)<br>
+​      [使用mysqldump工具逻辑备份](三、备份/1.使用mysqldump工具逻辑备份.md)<br>
+​      [使用myrocks_hotbackup工具物理备份](三、备份/2.使用myrocks_hotbackup工具物理备份.md)<br>
 
 ### 性能调优
 
@@ -38,19 +38,19 @@ MyRocks 文档翻译
 
 ### 监控
 
-​      [Show Engine Status查看引擎状态](五、监控\1.Show%20Engine%20Status查看引擎状态.md)<br>
-​      [MyRocks新引擎返回码](五、监控\2.MyRocks新引擎返回码.md)<br>
-​      [Information Schema状态](五、监控\3.Information%20Schema状态.md)     <br>
+​      [Show Engine Status查看引擎状态](五、监控/1.Show%20Engine%20Status查看引擎状态.md)<br>
+​      [MyRocks新引擎返回码](五、监控/2.MyRocks新引擎返回码.md)<br>
+​      [Information Schema状态](五、监控/3.Information%20Schema状态.md)     <br>
 
 ### 迁移
 
-​      [从InnoDB引擎迁移到MyRocks引擎](六、迁移\1.从InnoDB引擎迁移到MyRocks引擎.md)<br>
-​      [从官方MySQL 5.6复制到Facebook MySQL 5.6](六、迁移\2.从官方MySQL%205.6复制到Facebook%20MySQL%205.6.md)<br>
+​      [从InnoDB引擎迁移到MyRocks引擎](六、迁移/1.从InnoDB引擎迁移到MyRocks引擎.md)<br>
+​      [从官方MySQL 5.6复制到Facebook MySQL 5.6](六、迁移/2.从官方MySQL%205.6复制到Facebook%20MySQL%205.6.md)<br>
 
 ### 内部结构
-​      [MyRocks数据字典格式](七、内部结构\1.MyRocks数据字典格式.md)<br>
-​      [MyRocks记录格式](七、内部结构\2.MyRocks记录格式.md)<br>
-​      [MyRocks优化器统计信息](七、内部结构\3.MyRocks优化器统计信息.md)<br>
+​      [MyRocks数据字典格式](七、内部结构/1.MyRocks数据字典格式.md)<br>
+​      [MyRocks记录格式](七、内部结构/2.MyRocks记录格式.md)<br>
+​      [MyRocks优化器统计信息](七、内部结构/3.MyRocks优化器统计信息.md)<br>
 
 #### 原文出自
 
